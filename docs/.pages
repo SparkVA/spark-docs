@@ -1,0 +1,5 @@
+nav:
+    - Home: index.md
+    - pilot-handbook
+    - general-operating-manual
+    - ops-spec
