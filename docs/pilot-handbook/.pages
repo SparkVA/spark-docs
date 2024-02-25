@@ -1,7 +1,7 @@
 title: Member Handbook
 
 nav:
-    - 'Welcome To Spark': welcome.md
+    - 'Introduction': introduction.md
     - 'New Pilot Orientation': new-pilots.md
     - 'Code Of Conduct': coc.md
     - 'Administrative Policies': admin-policies

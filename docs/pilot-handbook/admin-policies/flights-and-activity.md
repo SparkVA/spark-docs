@@ -1,7 +1,7 @@
 ## Activity Requirements
-Pilots at Spark maintain their activity status based on the flights that are flown. This is strictly enforced.
+Members maintain their activity status based on the flights that are flown and logged via our website.
 
-At Spark, we use a rolling policy, vs a set-time window policy. Therefore, the activity clock starts when your last flight has been completed.
+Spark bases its activity on the last flight logged in our website. Once a flight is accepted, the activity clock resets.
 
 <center>
 
@@ -17,16 +17,18 @@ At Spark, we use a rolling policy, vs a set-time window policy. Therefore, the a
 
 !!! warning "New Hire Notice"
 
-    Pilots are required to complete one flight within fourteen (14) days of receiving their Welcome Email. If a pilot fails to complete a flight, and does not contact the staff or is a member of our Discord server, their account will be subject to retirement.
+    New Members __**shall**__ complete one flight within fourteen (14) days of account activation. If a pilot fails to complete a flight, and does not contact staff, their account will be subject to deletion.
 
 
 ### Leave of Absensce
-Pilots who wish to take a Leave of Absence can take up to six months (180 Days) leave at one time. Pilots are allows to take this leave once every year if they desire. Pilots wishing to do so must contact a member of the Executive Staff via email with the amount of time they wish to take. 
+Members who wish to take a Leave of Absence can take up to six months (180 Days) leave at one time. Members are allowed to take this leave once every year if they desire. Members wishing to do so must contact a member of the Executive Staff via email (staff@flyspark.org) with the amount of time they wish to take. 
 
-Please note that if you sign into your Pilot Account, it will be considered that you wish to end your leave and will be restored to Active Status. 
+Please note that if you complete a flight on our system, unless prior communication is established otherwise, your account will automatically get moved to Active status.
 
 ### Data Retension
-**In accordance with EU's GDPR, Spark will delete accounts who have been inactive for 6 months or more, unless a written request for us to keep the account was sent by the owner of that account.**
+In accordance with EU's GDPR, Spark considers accounts “inactive” when the following conditions are met after 180 days: (1) have not filed a PIREP. (2) Have not logged into the website.
+
+**Unless a written request has been received to keep the account. Spark will, at any time, delete inactive accounts without notice.**
 
 If you find that your account has been Suspended before the 6 month deadline, contact the executive team to re-activate your account.
 
@@ -38,19 +40,20 @@ All flights are tracked and logged on our website by using following approved tr
 
 - Desktop Based Clients
     - smartCARS 3
-- Online Network
-    - VATSIM
-- Manually Filed
+    - vmsACARS
+- Online ATC Network With Verifiable Records Of the Flight
+- Manually Filed Via The Website
 
 !!! warning "Notice Regarding Manually Filed Reports"
 
     All PIREPs should be filed via our approved ACARS clients. However, we understand there are reasons why this may not be possible.
-
+    
     Each PIREP filed manually must contain comments to justify filing manually. Eg. you performed a flight that smartCARS can't track, flight tracking failed, etc.
-
+    
     All submissions must contain a link to evidence that the flight was flown with the hours specified in the "Flight Time" field.
+    
+    If you do encounter an issue with ACARS, please contact support via Discord, as depending on the issue, we still may have your flight tracking data, and we could possibly “resurrect” your report.
 
-    Any PIREPs found to have been faked will be addressed via the policies outlined in the docs.
 
 A flight is considered valid when the user has successfully flown between the departure point and either the intended arrival point or alternate point using at least one of the approved tracking methods. If the departure point and arrival point are the same point, the user must satisfy one of the following minimum requirements:
 
@@ -63,38 +66,37 @@ If the departure point and arrival points are separate locations, there is no mi
 
 Left Blank
 
-### Charter Flight Requirements
+### Mission Flight Requirements
 
-Once a charter has been accepted, the pilot accepting the charter will have 72hrs from the time of acceptance to fly the route. If the pilot flying the charter is unable to fly within 72hrs, contact of the Charter Director, Mark Stursy, will need to be made and a date of completion agreed upon in writing.
+Missions
+:   Missions are Spark's verision of Charter Flights. These are hand curated flights that aim to provide a fun and unique twist to operations.
 
-Should the pilot accepting not fly the charter route, a notification will be sent to the via email and discord message as a reminder of the pending flight every 24hrs.
+Once a mission has been accepted, the pilot accepting the mission will have 72hrs from the time of acceptance to fly the route. If the pilot flying the mission is unable to fly within 72hrs, contact the poster
+
+Should the pilot accepting not fly the mission route, a notification will be sent to the via email and discord message as a reminder of the pending flight every 24hrs.
 
 If the pilot flying the route is unable to complete or has personal life interfere with the flight progress, the pilot can request that the flight be removed from their schedule and reassigned to the next bidder.
 
 If the flight is not completed in 72hrs from the date of acceptance, the flight shall be removed from the accepting pilots flight schedule. If the pilot has to be removed from the flight, a written warning will be issued.
 
-If any pilot should accumulate 3 or more written warnings, the pilot will be suspended from charter operations for one (1) calendar month from the date of the last warning.
+If any pilot should accumulate 3 or more written warnings, the pilot will be suspended from mission operations for one (1) calendar month from the date of the last warning.
 
 ## Double Dipping
 
 Double Dipping 
-:   Where a pilot flies for two or more virtual airlines at the same time using different tracking clients. It allows pilots to gain hours at multiple different virtual airlines while only doing one flight.
+:   Double dipping is where a pilot flies for our community, and another community at the same time using different tracking methods. It allows members to gain hours at multiple communities while only doing one flight.
 
-Spark Airlines ALLOWS for its pilots to participate in “Double Dipping.” We will never restrict our pilots to just flying for our airline. Spark Airlines understand that people can choose what airline(s) that they want to fly for.
+Spark Virtual Aviation ALLOWS for members to participate in “Double Dipping.” We will never restrict our members to just flying for our community.
 
-Flights that are flown for Special Operations (spec ops) or charters are NOT ALLOWED to be double dipped on. If found that a charter or spec ops flight was double dipped, the PIREP will be rejected, and the flight will be opened for bid to another pilot. If this becomes a common occurrence with unauthorized double dipping, the pilot will be suspended from charter/spec ops operations.
+!!! warning Warning!
+    Only flights which are __self created__ via Free Flight and Trips, or via the schedule, are allowed to be double dipped. Missions, or other events, that are created by staff or other members, **shall** not be double dipped.
 
-There will NEVER be a penalty to the pilot in hours for double dipping on scheduled operations, you just need to comply with the requirements stated below.
 
-Spark Airlines REQUIRES pilots who wish to “double dip” to do the following:
+Spark REQUIRES members who wish to “double dip” to do the following:
 
-- You MUST fly your monthly activity requirements solely for Spark Airlines. Double dipping is not allowed for monthly activity flights.
+- You MUST fly your monthly activity requirements solely for Spark. Double dipping is not allowed for monthly activity flights.
 - You must put in the “PIREP Comments” section of SmartCARS that they were double dipping for the flight they were flying
-    - EXAMPLE: THIS FLIGHT WAS FLOWN AND LOGGED FOR HOURS AT SPARK AIRLINES AND (insert other airline(s) here)
-- All Spark Airlines Policies and Procedures must be followed
-- All VATSIM CoC policies must be followed
+    - EXAMPLE: THIS FLIGHT WAS FLOWN AND LOGGED FOR HOURS AT SPARK AND (insert other community here)
+- All Spark Policies and Procedures must be followed
 
-Pilots who are NOT flying their monthly requirements SOLELY FOR SPARK AIRLINES will be subject to suspension and/or removal from active status with the airline.
-
-Pilots that are found to be “double dipping” and do not have record of that in their PIREP Comments will be subject to having their PIREP for Spark Airlines rejected. Continuous double dipping WITHOUT proper documentation will result in account suspension and/or retirement from Spark Airlines.
-
+Members that are found to be “double dipping” and do not have a record of that in their PIREP Comments will be subject to having their PIREP for Spark rejected. Continuous double dipping WITHOUT proper documentation will result in account suspension.
