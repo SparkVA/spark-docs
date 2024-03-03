@@ -18,7 +18,7 @@ Max Fitzmaurice, Mark Stoorza, Shant Kahwajian, Taylor Broad
 This document governs the policies and regulations members and staff are to abide by. A detailed description of our operations can be found in the applicable General Operating Manual that governs each section of Spark’s operations, where applicable. All resources can be found on the same document website you’re viewing.
 
 ## Agreement
-**ALL** Spark Members and Staff are required to carry out their assigned duties and operations in accordance with the Policies and Procedures listed in this document and in all documents found in https://docs.flyspark.org/. Failure to do so may result in account suspension and/or termination. 
+**ALL** Spark Virtual Aviation Members and Staff are required to carry out their assigned duties and operations in accordance with the Policies and Procedures listed in this document and in all documents found in https://docs.flyspark.org/. Failure to do so may result in account suspension and/or termination. 
 
 By joining Spark Aviation Group, you agree to abide by the policies found on this site.
 
